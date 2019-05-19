@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "INSTALL PACKAGES"
 
 sudo apt-get install -y \
